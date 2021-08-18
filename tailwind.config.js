@@ -11,6 +11,8 @@ module.exports = {
             colors: {
                 red: "#A1151A",
                 mustard: "#D7B344",
+                "red-hero": "#CB0007",
+                "mint-julep": "#F3E8C7",
                 "spring-wood": "#F4F2EB",
             },
         },

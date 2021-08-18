@@ -1,0 +1,32 @@
+.icons {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    &.icon-facebook {
+        background-image: url("/assets/icon-facebook.svg");
+    }
+
+    &.icon-instagram {
+        background-image: url("/assets/icon-instagram.svg");
+    }
+
+    &.icon-twitter {
+        background-image: url("/assets/icon-twitter.svg");
+    }
+
+    &.icon-chevron-down {
+        background-image: url("/assets/icon-chevron-down.svg");
+        width: 15px;
+        height: 15px;
+    }
+
+    &.icon-chevron-right {
+        background-image: url("/assets/icon-chevron-right.svg");
+        width: 10px;
+        height: 10px;
+    }
+}
